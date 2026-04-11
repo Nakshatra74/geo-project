@@ -14,25 +14,25 @@
 const APP_CONFIG = {
 
   // ── Main name (shown in navbar, page title, chat header) ──
-  APP_NAME: "TripQuests",          // e.g. "WanderAI", "RoamBot", "TravelMate"
+  APP_NAME: "CultureQuest",          // e.g. "WanderAI", "RoamBot", "TravelMate"
 
   // ── The italic/colored second part of the name in navbar ──
-  APP_NAME_SUFFIX: "Quests",       // "Trip" + "Quests" → Trip is plain, Quests is styled
+  APP_NAME_SUFFIX: "Quest",       // "Trip" + "Quests" → Trip is plain, Quests is styled
 
   // ── Browser tab title ──
-  PAGE_TITLE: "TripQuests — Your AI Travel Companion",
+  PAGE_TITLE: "CultureQuest — Your AI Travel Companion",
 
   // ── Chat header sub-line ──
-  CHAT_SUBTITLE: "Groq Llama 3.3 · Multilingual · Weather · Distances · Personalised",
+  CHAT_SUBTITLE: "Multilingual · Weather · Distances · Personalised",
 
   // ── Admin panel label (shown next to brand) ──
   ADMIN_LABEL: "ADMIN",
 
   // ── Welcome message (supports <strong> and <br>) ──
-  WELCOME_MESSAGE: `Namaste! I'm <strong>TripQuests AI</strong> powered by Groq's Llama 3.3.<br><br>I plan trips, show <strong>live weather</strong>, calculate <strong>distances</strong>, and give <strong>personalised recommendations</strong>.<br><br>🌐 <strong>Switch the language</strong> in the sidebar to chat in Hindi, Punjabi, Tamil, French or any language!<br><br>👥 <strong>Group Plan</strong> — invite friends to plan together. 💰 <strong>Split Expenses</strong> — split trip costs fairly.`,
+  WELCOME_MESSAGE: `Namaste! I'm <strong>CultureQuest AI</strong> powered by Groq's Llama 3.3.<br><br>I plan trips, show <strong>live weather</strong>, calculate <strong>distances</strong>, and give <strong>personalised recommendations</strong>.<br><br>🌐 <strong>Switch the language</strong> in the sidebar to chat in Hindi, Punjabi, Tamil, French or any language!<br><br>👥 <strong>Group Plan</strong> — invite friends to plan together. 💰 <strong>Split Expenses</strong> — split trip costs fairly.`,
 
   // ── Typewriter effect speed (milliseconds per character) ──
-  TYPEWRITER_SPEED_MS: 18,         // lower = faster. Try 10–30.
+  TYPEWRITER_SPEED_MS: 12,         // lower = faster. Try 10–30.
 
 };
 
